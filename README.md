@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)]
+[![MasterHead](https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif)]
 
 <h1 align="center">Hi 👋, I'm Nitheeswaran</h1>
 <h3 align="center">A passionate full Stacks developer from India</h3>
